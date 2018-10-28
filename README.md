@@ -1,2 +1,2 @@
 # Object-Oriented-Programming-Java-
-Basic oop codes with java programming language.
+Basic oop code for find area and circumference of circle in Java Programming Language.
